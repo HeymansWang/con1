@@ -1,0 +1,8 @@
+{
+  "name": "Node.js Test Demo",
+  "build": {
+    "dockerfile": "Dockerfile",
+  },
+  "forwardPorts": [3000, 3001],
+  "workspaceFolder": "/workspace"
+}
